@@ -1,0 +1,35 @@
+.foundryvtt-party-sheet .item-summary {
+  display: none;
+}
+
+.foundryvtt-party-sheet .item-summary.item-summary-open {
+  display: block;
+}
+
+.foundryvtt-player-character-list {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.foundryvtt-player-character {
+  align-items: center;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.foundryvtt-player-character:last-of-type {
+  margin-bottom: 0;
+}
+
+.foundryvtt-player-character h3 {
+  font-weight: 900;
+}
+
+.foundryvtt-player-character img {
+  border: none;
+  height: 100px;
+  margin-right:20px;
+  max-height: 100px;
+  max-width: 100px;
+  width: 100px; 
+}

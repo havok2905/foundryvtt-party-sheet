@@ -1,0 +1,21 @@
+{
+  "id": "foundryvtt-party-sheet",
+  "title": "foundryvtt-party-sheet",
+  "description": "",
+  "authors": [
+    {
+      "name": "Havok"
+    }
+  ],
+  "scripts": [
+    "dist/bundle.js"
+  ],
+  "styles": [
+    "styles/styles.css"
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
